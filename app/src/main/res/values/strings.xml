@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StockReminder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stock_price">Price</string>
+    <string name="stock_greater">Greater than</string>
+    <string name="stock_less">Less than</string>
+    <string name="stock_greater_short">Grt.</string>
+    <string name="stock_less_short"   >Less</string>
+    <string name="stock_dialog_save">SAVE</string>
+    <string name="stcok_dialog_title_add">New Stock Alert</string>
+    <string name="stock_number">Stock Number</string>
+    <string name="stock_limit_price">Stock Price</string>
+    <string name="stock_add_invalid_input">Invalid stock number or price</string>
+</resources>

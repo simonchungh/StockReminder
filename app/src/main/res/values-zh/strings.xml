@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">股票提醒</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="stock_price">股价</string>
+    <string name="stock_greater">高于</string>
+    <string name="stock_less">低于</string>
+    <string name="stock_greater_short">高于</string>
+    <string name="stock_less_short"   >低于</string>
+    <string name="stock_dialog_save">保存</string>
+    <string name="stcok_dialog_title_add">添加提醒</string>
+    <string name="stock_number">代码</string>
+    <string name="stock_limit_price">价格</string>
+    <string name="stock_add_invalid_input">无效的代码或价格</string>
+</resources>
